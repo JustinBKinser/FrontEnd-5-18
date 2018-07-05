@@ -1,0 +1,42 @@
+body {
+    background-image: url(louisville-skyline.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+} 
+
+.container {
+    
+    width: 100%;
+    height: 100px;
+    padding-bottom: 5px;
+    margin: 5px;
+}
+
+h1 {
+    
+    text-align: center;
+    color: white;
+    font-family: cursive;
+    font-size: 400%;
+}
+
+footer {
+    
+}
+
+
+
+// MEDIA QUERIES:
+
+
+@media (min-width: 576px) { ... }
+
+
+@media (min-width: 768px) { ... }
+
+
+@media (min-width: 992px) { ... }
+
+
+@media (min-width: 1200px) { ... }
